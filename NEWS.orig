@@ -19,9 +19,6 @@ Changes in 1.0.1 since 1.0.0:
 
 * Fixed memory corruption in scanning <LegacyDir> addressed directory.
 
-* Fixed potential access violation, use runtime user dir instead of tmp dir.
-    It limits libmenu-cache compatibility to menu-cached >= 0.7.0.
-
 
 Changes in 1.0.0 since 0.7.0:
 
