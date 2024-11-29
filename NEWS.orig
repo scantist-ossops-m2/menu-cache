@@ -13,9 +13,6 @@ Changes in 1.0.2 since 1.0.1:
 
 * The option --disable-debug is now default, instead of --enable-debug.
 
-* Fixed potential access violation, use runtime user dir instead of tmp dir.
-    It limits libmenu-cache compatibility to menu-cached >= 0.7.0.
-
 
 Changes in 1.0.1 since 1.0.0:
 
